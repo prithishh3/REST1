@@ -7,3 +7,5 @@ in multiple areas of research like Astrophsics, Atmospheric physics, Nanoscience
 development and will appear in this thread very soon. 
 
 The code is under construction using Fortran, Python, VTK and Bash
+
+See the screenshot and gif for preview
